@@ -1,0 +1,2 @@
+Model,MAE,MSE,R2
+RandomForest_scaled,48.29,3188.48,-0.02
